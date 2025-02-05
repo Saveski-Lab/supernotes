@@ -53,9 +53,17 @@ To replicate the plots (and associated analyses) run the following scripts:
 
 ## Citation
 ```
-@inproceedings{de2024supernotes,
-    title={Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking},
-    author={De, Soham and Baxter, Jay and Bakker, Michiel and Saveski, Martin},
-    year={2024}
+@inproceedings{de2025supernotes,
+    booktitle = {Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking},
+    author    = {De, Soham and Baxter, Jay and Bakker, Michiel and Saveski, Martin},
+    booktitle = {Proceedings of the {ACM} Web Conference 2025 ({WWW} '25)},
+    year      = {2025},
+    month     = {April 28--May 2},
+    location  = {Sydney, NSW, Australia},
+    publisher = {ACM},
+    address   = {New York, NY, USA},
+    pages     = {11},
+    doi       = {10.1145/3696410.3714934}
+}
 }
 ```
