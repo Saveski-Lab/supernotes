@@ -65,5 +65,4 @@ To replicate the plots (and associated analyses) run the following scripts:
     pages     = {11},
     doi       = {10.1145/3696410.3714934}
 }
-}
 ```
