@@ -1,7 +1,9 @@
 # Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14848537.svg)](https://doi.org/10.5281/zenodo.14848537) 
+
 [Soham De](https://www.sohamde.in), [Michiel Bakker](https://www.miba.dev/), [Jay Baxter](http://jaybaxter.net/), [Martin Saveski](https://faculty.washington.edu/msaveski/)
 
-This repository contains code for replicating the analysis and experiments in the paper "Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking".
+This repository contains code for replicating the analysis and experiments in the paper "Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking" published in the proceedings of The ACM Web Conference 2025.
 
 Open-sourced Community Notes data required for generating supernotes can be downloaded from [their website](https://communitynotes.x.com/guide/en/under-the-hood/download-data). The anonymized data from human experiments needed for replication will be available upon request.
 
@@ -54,7 +56,7 @@ To replicate the plots (and associated analyses) run the following scripts:
 ## Citation
 ```
 @inproceedings{de2025supernotes,
-    booktitle = {Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking},
+    title     = {Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking},
     author    = {De, Soham and Baxter, Jay and Bakker, Michiel and Saveski, Martin},
     booktitle = {Proceedings of the {ACM} Web Conference 2025 ({WWW} '25)},
     year      = {2025},
@@ -66,3 +68,7 @@ To replicate the plots (and associated analyses) run the following scripts:
     doi       = {10.1145/3696410.3714934}
 }
 ```
+
+## License
+
+This code is licensed under the CC BY 4.0 license found in the LICENSE file.
